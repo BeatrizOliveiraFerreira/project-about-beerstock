@@ -1,5 +1,5 @@
 # Projeto sobre Estoque de cerveja utilizando Rest-Api com Spring-Boot da DIO- Digital Innovation One, através do professor Rodrigo Peleias
-https://github.com/rpeleias/beer_api_digital_innovation_one
+Github do projeto do Rodrigo Peleias: https://github.com/rpeleias/beer_api_digital_innovation_one
 
 Site do Spring-Boot: http://start.spring.io/ 
 
